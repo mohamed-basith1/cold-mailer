@@ -159,7 +159,7 @@ Mohamed Basith
               align="center"
               gutterBottom
             >
-              Cold Mail Sender test
+              Cold Mail Sender test 2
             </Typography>
             <IconButton
               onClick={() => setMode(mode === "light" ? "dark" : "light")}
