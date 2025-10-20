@@ -28,7 +28,7 @@ const roles = [
 
 function App() {
   const [mode, setMode] = useState<"light" | "dark">("light");
-  const [input, setInput] = useState("");
+
   const theme = createTheme({
     palette: {
       mode,
